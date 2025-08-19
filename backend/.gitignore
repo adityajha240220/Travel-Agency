@@ -1,0 +1,5 @@
+.env
+.vscode/
+travel/
+db.sqlite3
+__pycache__/
